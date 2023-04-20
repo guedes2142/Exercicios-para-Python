@@ -12,7 +12,7 @@ Escreva uma função em Python que recebe uma lista de números como parâmetro 
 retorna a média desses números. Em seguida, escreva um programa que pede ao usuário 
 para digitar uma lista de números separados por vírgulas, 
 chama a função para calcular a média desses números e exibe o resultado na tela.
-Sim! A fórmula para calcular a média de uma lista de números é simples: basta somar todos os 
+A fórmula para calcular a média de uma lista de números é simples: basta somar todos os 
 elementos da lista e dividir o resultado pelo número de elementos na lista. Matematicamente, 
 a fórmula para calcular a média pode ser escrita da seguinte forma:
 
