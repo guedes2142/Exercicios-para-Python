@@ -44,8 +44,10 @@ def soma_quadrados(x, y):
 
     return x , y
 
-print('Enter 2 numbers with comma')
+print('Enter a number')
 user_number = input('>>> ')
+
+print('Enter another number')
 user_number_two = input('>>> ')
 
 if user_input:
@@ -79,7 +81,7 @@ def Num_list(numeros):
     media = soma / len(numeros)
     return media
 
-print('Enter a list o numbers to know the avarege, do not forget to use comma (1,2,3)')
+print('Enter a list of numbers to know the avarege, do not forget to use comma (1,2,3)')
 user_entry = input('>>> ')
 
 user_entry = [int(i) for i in user_entry.split(',')]
